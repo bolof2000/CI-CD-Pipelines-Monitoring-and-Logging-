@@ -1,1 +1,2 @@
-# CI-CD-Pipelines-Monitoring-and-Logging-
+<h2>Continous integration and continous deployment using AWS</h2>
+<p>This repository contains my work for building a Continuous integration and continuous deployment pipelines using Jenkins and deploying containers using Docker and Kubernetes</p> 
